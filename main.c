@@ -7,7 +7,7 @@ int main()
 {
     double i; int x,n;
 
-    printf("Hello world! \n Puissance de la forme x ^ n \n");
+    printf("\n Puissance de la forme x ^ n \n");
     printf("Entre x: ");scanf("%d",&x);
     printf("Entre n: ");scanf("%d",&n);
 
