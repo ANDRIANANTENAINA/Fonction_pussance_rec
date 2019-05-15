@@ -8,8 +8,8 @@ int main()
     double i; int x,n;
 
     printf("\n Puissance de la forme x ^ n \n");
-    printf("Entre le valeur de x: ");scanf("%d",&x);
-    printf("Entre le valeur de n: ");scanf("%d",&n);
+    printf("Entre le valeur  x: ");scanf("%d",&x);
+    printf("Entre le valeur  n: ");scanf("%d",&n);
 
     i=puissance(x,n);
     printf("\n\tResutat de %d ^ %d = %f \n\n",x,n,i);
